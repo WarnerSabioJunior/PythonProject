@@ -1,0 +1,137 @@
+############
+
+Terms:
+
+############
+
+FDI: 
+Foreign Direct Investment (FDI) refers to investments made by an entity based in one country into an entity based in another country, specifically targeting a lasting interest and control or significant influence over the management of the foreign entity. This often involves acquiring 10% or more of the voting stock or equivalent of an enterprise. FDI can manifest in several forms, such as establishing new operations (greenfield investments), entering partnerships (joint ventures), or acquiring existing foreign businesses (mergers and acquisitions). The data on FDI includes equity capital, reinvestment of earnings, and other long-term capital, and is presented in net inflows (capital invested in the reporting country minus divestment) or net outflows (capital invested by the reporting country in others minus divestment) (https://databank.worldbank.org/metadataglossary/world-development-indicators/series/BX.KLT.DINV.CD.WD )(https://datahelpdesk.worldbank.org/knowledgebase/articles/114954-what-is-the-difference-between-foreign-direct-inve/ )
+
+############
+
+Human development index:
+The Human Development Index (HDI) is a composite metric used to measure average achievements in key dimensions of human development. These dimensions include having a long and healthy life, access to knowledge, and a decent standard of living. The HDI is used to rank countries based on their level of human development and to assess progress over time (https://data.un.org/DocumentData.aspx?id=490 )(https://easterncaribbean.un.org/en/105563-human-development-report-2020 )
+
+############
+
+Development:
+government aid that promotes and specifically targets the economic development and welfare of developing countries. This concept was adopted as the "gold standard" of foreign aid in 1969 and continues to be a principal source of financing for development aid.
+
+From a Marxist perspective, development is defined as a process that should lead to the economic, social, and political empowerment of a nation or community, aiming for self-sufficiency, equitable distribution of wealth, and the fulfillment of human needs. It involves transforming the economic and social structures to move away from dependency and exploitation, towards a system where the means of production are collectively owned and controlled, and where the benefits of growth and progress are shared by all members of society, not just a privileged few.
+
+In this context, development is not just about economic growth measured by GDP or foreign investment inflow, but about building a society that prioritizes the well-being, dignity, and rights of all its members. It emphasizes the importance of freeing nations and communities from the mechanisms of capitalist exploitation and imperialism, fostering conditions that enable self-determination, sustainable living, and the holistic well-being of the population.
+
+############
+
+Developed Economy:
+
+A developed economy refers to a country that has achieved a high level of economic growth and sophistication. This classification is often based on various indicators such as high per capita income, advanced technological infrastructure, significant industrialization, and a well-developed financial system. Countries with these characteristics typically exhibit low poverty rates and high standards of living.
+
+The World Bank's World Development Indicators and the International Monetary Fund's (IMF) World Economic Outlook are two official sources that provide data and classification for developed economies. These institutions analyze and categorize economies into groups like "advanced economies" based on a set of economic and developmental criteria.
+
+For more detailed information, you can visit the World Development Indicators page on the World Bank's website ([World Development Indicators | DataBank](https://databank.worldbank.org/source/world-development-indicators )) and the IMF's World Economic Outlook Database ([World Economic Outlook Database - Groups and Aggregates](https://www.imf.org/en/Publications/WEO/weo-database/2023/April/weo-report?c=512,914,612,171,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,634,636,516,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,948,664,366,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,960,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698,&s,NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 )) for up-to-date information and specific country classifications.
+
+A developed economy refers to a country that exhibits high levels of economic growth, sophistication, and well-being. Key characteristics of developed economies include high per capita income, advanced technological infrastructure, significant industrialization, and a well-developed financial system. These economies are distinguished by high standards of living, low poverty rates, and substantial investment in healthcare, education, and social welfare programs.
+
+The classification of a country as a developed economy is based on various indicators. Commonly used metrics include Gross Domestic Product (GDP), industrialization levels, infrastructure quality, and the Human Development Index (HDI), which encompasses life expectancy, education, and income per capita measures. Developed economies typically have a dominant service sector, advanced technological capabilities, and robust infrastructure development.
+
+Examples of developed economies include the United States, United Kingdom, Canada, Norway, Switzerland, Japan, and South Korea. These nations are characterized by their high national income levels, superior quality of life, and comprehensive infrastructure development.
+
+Understanding developed economies is crucial for analyzing global economic trends and making informed policy and investment decisions. The concept of developed economies plays a significant role in differentiating countries based on their economic status, infrastructure, and living standards (https://en.wikipedia.org/wiki/Developed_country )(https://www.wallstreetmojo.com/developed-economy/ )(https://livewell.com/finance/what-is-a-developed-economy-definition-how-it-works-hdi-index/ ).
+
+############
+
+Developed:
+In the context of international development, a developed country is generally characterized by a high quality of life, a developed economy, and advanced technological infrastructure compared to less industrialized nations. Criteria commonly used to evaluate the level of economic development include gross domestic product (GDP), gross national product (GNP), per capita income, level of industrialization, extent of infrastructure, and general living standards. Developed countries are often seen as having post-industrial economies where the service sector generates more wealth than the industrial sector.
+
+The Organisation for Economic Co-operation and Development (OECD) doesn't provide a strict definition of "developed countries" but uses various indicators and lists for analytical purposes. For example, in OECD's climate finance reports, developed countries include members of the European Union, as well as countries like the United States, Canada, Japan, and Australia, among others.
+
+There's no universally accepted standard for classifying countries as "developed," and the designation can vary depending on the context and criteria used. While economic factors dominate, other measures like the Human Development Index (HDI), which includes life expectancy, education, and income per capita, are also significant in determining a country's development status.
+
+############
+
+Migration: 
+In the context of demography and census data, migration refers to the movement of people within and across boundaries, such as county, state, or country lines. This movement is classified into two main types: domestic migration and international migration. Domestic migration entails moves that cross administrative boundaries within a country, including local moves within the same neighborhood or building. International migration, on the other hand, involves moves that cross national borders, encompassing both immigration (migration to a country) and emigration (migration from a country). (https://www.census.gov/topics/population/migration/about.html )
+
+############
+
+Demography: 
+Demography itself is the statistical study of human populations, focusing on the size, movement, and structure of these populations. Demographers utilize census data, surveys, and statistical models to analyze and predict social, cultural, and economic trends related to population. In demographic studies, migration is a crucial factor along with mortality and fertility, influencing population change. The U.S. Census Bureau provides extensive data and statistics on migration and geographic mobility, utilizing various data sources to offer comprehensive insights into these phenomena. (https://education.nationalgeographic.org/resource/demography/ )
+
+############
+
+Foreign aid:
+Foreign aid, officially known as Official Development Assistance (ODA), is defined by the Organisation for Economic Co-operation and Development (OECD) as financial assistance provided by donor countries to promote economic development and welfare in developing countries. This assistance can take various forms, including grants, loans, and technical assistance. The aid is typically provided by governments and is intended for development projects and programs, with the aim of improving the economic, social, and political conditions in the recipient countries. It is intended to be concessional in terms, meaning that it is provided on terms substantially more generous than market loans and often includes a grant element.
+
+Official development assistance (ODA) is defined by the Organisation for Economic 
+Co-operation and Development (OECD) as government aid aimed at promoting the economic development and welfare of developing countries. This assistance is considered the main source of financing for development aid, with its parameters established by the OECD's Development Assistance Committee (DAC) since 1969. The definition of ODA was further refined in 1972, emphasizing its role as a key measure in aid performance and target setting.
+
+From 2018 onwards, the ODA grant equivalent has become the standard for reporting, reflecting donor effort. ODA flows include grants, loans, and other contributions to countries on the DAC List of ODA Recipients and to multilateral development institutions, provided by official agencies, including state and local governments or their executive agencies.
+
+For more detailed information, you can visit the OECD's pages on Official Development Assistance (ODA) (https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/official-development-assistance.htm )(https://www.oecd.org/development/financing-sustainable-development/development-finance-standards/officialdevelopmentassistancedefinitionandcoverage.htm )
+
+############
+
+Quality of life: 
+Quality of life (QOL) is a broad and multifaceted concept that encompasses an individual's overall well-being, including their physical health, psychological state, level of independence, social relationships, environmental quality, and spiritual beliefs. It reflects the degree to which a person enjoys the important possibilities of their life, influenced by both external conditions and personal perceptions.
+
+The concept of QOL is subjective and can vary significantly based on individual experiences and circumstances. For instance, someone with a disability might report a high quality of life, while a healthy individual who has recently lost a job might report a lower quality of life. This subjectivity makes QOL distinct from more objective measures like standard of living, which primarily focuses on economic and material factors. QOL includes emotional and physical well-being, material well-being, and social well-being, highlighting the individual’s perception of their position in life within the cultural context and value systems.
+
+The measurement of QOL has evolved to include various dimensions beyond just economic prosperity, recognizing that human flourishing depends on more than just material wealth. Factors such as access to healthcare, quality of education, and environmental conditions are considered critical to understanding and improving QOL.
+
+Internationally, the Human Development Index (HDI) is used to quantify aspects of QOL, combining life expectancy, education, and standard of living data to provide a broader view of human development across countries. Additionally, the World Happiness Report ranks countries based on happiness levels, considering economic, social, and individual factors to reflect the quality of human development.
+
+The understanding and assessment of QOL have significant implications in fields such as healthcare, where it can guide treatment decisions, and in public policy, where it can inform strategies to enhance societal well-being.
+
+- [Berkeley Well-Being Institute](https://www.berkeleywellbeing.com )
+- [Wikipedia on Quality of Life](https://en.wikipedia.org/wiki/Quality_of_life )
+- [Encyclopaedia Britannica on Quality of Life](https://www.britannica.com/topic/quality-of-life )
+
+############
+
+Standard of living: 
+In the context of economics and civilization, the standard of living primarily refers to the level of wealth, comfort, goods, and services available to people in a specific geographic area or society. Economically, it's often measured by GDP per capita, which represents the average income or output per person and gives an indication of the economic well-being of a population. However, this measure has limitations, as it doesn't account for non-market transactions, the distribution of income, or the overall quality of life that includes health, education, and environmental conditions.
+
+Civilization-wise, the standard of living encompasses broader aspects, such as the quality of public services, access to healthcare and education, and the general well-being of individuals and communities. It reflects not just economic prosperity but also societal progress, including cultural, technological, and infrastructural development.
+
+There are complex challenges in measuring and comparing standards of living, especially when considering differences between countries and over time. Various factors, like cost of living adjustments, income distribution, and non-monetary elements like leisure time and social services, play crucial roles in determining the actual standard of living. Tools like the Human Development Index (HDI) have been developed to provide a more comprehensive view by including factors such as life expectancy, education, and income levels.
+
+In summary, while economic indicators like GDP per capita are essential for gauging the standard of living in economic terms, they are part of a broader picture that includes social, cultural, and environmental dimensions, essential for understanding the overall quality of life in different civilizations.
+
+These insights are derived from a synthesis of information from various sources, including discussions on the limitations of GDP as a measure of the standard of living (Lumen Learning), the social science perspective on living standards (Britannica), and the complexities of measuring living standards (Economics Help).
+
+- Lumen Learning provides insights into GDP and its relation to the standard of living: [GDP and Standard of Living](https://courses.lumenlearning.com/macroeconomics/chapter/standard-of-living/ )
+- Encyclopaedia Britannica offers an overview of the standard of living and its social science implications: [Standard of Living on Britannica](https://www.britannica.com/money/standard-of-living )
+- Economics Help discusses the challenges and methods of measuring living standards: [Measuring Living Standards](https://www.economicshelp.org/blog/180/development/measuring-living-standards/ )
+
+############
+
+Brain drain:
+Brain drain refers to the emigration of highly skilled and educated individuals from a particular geographic region, leading to a reduction in the area's human capital. It is considered both a social and economic problem because it results in a workforce that is less skilled and educated, which can negatively impact the economic and social development of the region. The primary causes of brain drain include high unemployment rates, economic crises, low salaries, political instability, human rights abuses, and lack of personal freedom in the home country. Conversely, the regions that attract these individuals usually offer better living conditions, higher wages, stable political environments, and more opportunities for professional and personal development (https://www.worldatlas.com/articles/what-is-brain-drain.html ).
+
+In the European context, brain drain has significant implications, especially in regions with a large number of highly-skilled workers migrating to work abroad. This migration trend leads to a smaller and less educated workforce in the home region, exacerbating the challenges of an aging population and reduced productivity potential. Particularly affected are developing countries, where the departure of skilled professionals in critical fields like healthcare and education can lead to shortages that hinder development and the effective use of foreign aid
+(https://joint-research-centre.ec.europa.eu/jrc-mission-statement-work-programme/facts4eufuture/demographic-scenarios-eu-migration-population-and-education/impact-brain-drain-eu-demographic-scenarios_en )(https://knowledge4policy.ec.europa.eu/news/depopulation-brain-drain-returning-migrants-facts-figures-eu-policy_en ). 
+
+############
+
+Investment:
+In economics, investment refers to the allocation of resources, typically money, into assets or projects expected to yield future benefits or returns. It plays a critical role in determining the productivity and growth potential of an economy. Investment is categorized into various components, including gross private domestic investment (GPDI), which consists of nonresidential structures, nonresidential equipment and software, residential investment, and changes in private inventories. GPDI affects the economy's capital stock and, consequently, its output and living standards in the long run. Investment is volatile and significantly impacts the aggregate demand and economic growth, as changes in investment levels can lead to shifts in the aggregate demand curve, influencing real GDP and price levels.
+
+For more detailed information, you can explore the following sources:
+- [The Role and Nature of Investment – Principles of Macroeconomics](https://open.lib.umn.edu/principlesofmacroeconomics/chapter/14-1-the-role-and-nature-of-investment/ )
+- [Investment and Economic Activity – Principles of Economics](https://open.lib.umn.edu/principlesofeconomics/chapter/29-1-the-role-and-nature-of-investment/ )
+- [Investment and the Economy – Principles of Economics](https://open.lib.umn.edu/principlesofeconomics/chapter/29-3-investment-and-the-economy/ )
+
+############
+
+GDP:
+Gross Domestic Product (GDP) represents the total market value of all final goods and services produced within a country over a specified period. It is a measure used globally to gauge economic activity and performance. The calculation of GDP can be approached in three main ways: the expenditure approach, which sums up consumption, investment, government spending, and net exports; the production approach, which tallies the value added at each production stage; and the income approach, which aggregates the incomes generated by production. GDP data are crucial for government, businesses, and financial institutions to make informed decisions regarding fiscal and monetary policies, investment, and economic planning (https://www.britannica.com/money/gross-domestic-product )(https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/gross-domestic-product-GDP )(https://www.bea.gov/resources/learning-center/what-to-know-gdp )
+
+############
+
+GNP:
+Gross National Product (GNP) is a measure of the economic performance of a country. It represents the total value of all goods and services produced over a specific time period by the nationals of a country, regardless of where the production takes place. This includes the income earned by the country's residents and businesses, including those located abroad, but excludes the income generated within the country by non-residents.
+
+Unlike Gross Domestic Product (GDP), which measures the economic output within the geographical boundaries of a country, GNP adds the net income from abroad. To put it simply, GNP = GDP + net income earned from overseas investments by residents - income earned within the domestic economy by non-residents.
+
+############
